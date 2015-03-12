@@ -1,0 +1,23 @@
+{
+  "name": "loadfileontotextarea",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "*",
+    "ejs": "*",
+    "body-parser": "*",
+    "express-ejs-layouts": "*"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "devDependencies": {
+    "gulp-shell": "*"
+  },
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Casiano",
+  "license": "ISC"
+}
